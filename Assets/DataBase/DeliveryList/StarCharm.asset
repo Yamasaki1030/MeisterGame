@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e311cb157e12a574f8e877391d425ee8, type: 3}
+  m_Name: StarCharm
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  itemName: "\u30C1\u30E3\u30FC\u30E0(\u661F\u5EA7)"
+  information: 
+  price: 80
+  deliPoint: 60

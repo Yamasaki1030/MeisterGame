@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c86ada72df4da4694a18fdcd0bd6d1, type: 3}
+  m_Name: PinkGold
+  m_EditorClassIdentifier: 
+  kindOfItem: 0
+  icon: {fileID: 0}
+  itemName: "\u30D4\u30F3\u30AF\u30B4\u30FC\u30EB\u30C9"
+  information: "\u91D1\u3068\u9285\u3092\u52A0\u5DE5\u3057\u305F\u3082\u306E\u3002\u6DE1\u3044\u30D4\u30F3\u30AF\u8272\u306E\u91D1\u5C5E"

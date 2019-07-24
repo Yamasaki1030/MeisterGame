@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e311cb157e12a574f8e877391d425ee8, type: 3}
+  m_Name: FlowerNeck
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  itemName: "\u30CD\u30C3\u30AF\u30EC\u30B9(\u82B1)"
+  information: "\u30A8\u30FC\u30C7\u30EB\u30EF\u30A4\u30B9\u306E\u30CD\u30C3\u30AF\u30EC\u30B9\u3002\u30B7\u30F3\u30D7\u30EB\u3060\u304C\u83EF\u3084\u304B\u3055\u3082\u3042\u308B\u3002"
+  price: 60
+  deliPoint: 40

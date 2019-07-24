@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c86ada72df4da4694a18fdcd0bd6d1, type: 3}
+  m_Name: CrownMold
+  m_EditorClassIdentifier: 
+  kindOfItem: 0
+  icon: {fileID: 0}
+  itemName: "\u738B\u51A0\u30C1\u30E3\u30FC\u30E0\u306E\u578B"
+  information: "\u3044\u3044\u611F\u3058\u306E\u738B\u51A0\u30C1\u30E3\u30FC\u30E0\u3092\u4F5C\u308B\u3053\u3068\u304C\u3067\u304D\u308B"

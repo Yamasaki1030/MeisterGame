@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c86ada72df4da4694a18fdcd0bd6d1, type: 3}
+  m_Name: GoldOre
+  m_EditorClassIdentifier: 
+  kindOfItem: 0
+  icon: {fileID: 0}
+  itemName: "\u91D1\u9271\u77F3"
+  information: "\u91D1\u306E\u6750\u6599"
